@@ -1,6 +1,4 @@
-# FireFightingRobot
-
-# 🔥 Fire Extinguisher Robot
+# 🔥 Fire Fighting Robot
 
 An autonomous + manual firefighting robot designed to detect fire, avoid obstacles, and provide real-time video and location data from hazardous environments.
 
