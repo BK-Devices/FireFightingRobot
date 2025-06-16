@@ -1,0 +1,33 @@
+﻿ID    Name                  Designator                    Footprint                           Quantity      Pins
+1	    BUZZER	              BZ	                          BUZZER	                            1            	2
+2	    1000uf 25v	          C1,C3	                        CAP-TH_BD12.5-P5.00-D0.6-FD	        2	            2
+3	    2200uf 25v	          C2	                          CAP-TH_BD12.5-P5.00-D0.6-FD	        1	            2
+4	    1000uf 16v	          C4,C5,C6	                    470UF 16V AMIR	                    3	            2
+5	    1000uf 10v	          C7	                          470UF 16V AMIR	                    1	            2
+6	    22pf	                C8,C9	                        CAPACITOR_PINS=2.54MM	              2	            2
+7	    Bat Connector	        CN1	                          BARRIER SCREW TERMINAL	            1	            2
+8	    4 Pin RMC	            CN2	                          RMC 4PIN P2.5	                      1            	4
+9	    2 PIN PB2	            CN3	                          CONN-TH_2P-P5.08_2PIN	              1	            2
+10	  6PIN RMC	            CN4	                          6PINRMC	                            1            	6
+11	  IR Receiver	          D1,D2,D3	                    LED2-2.54-6MM	                      3	            2
+12	  DC F Socket	          DC	                          DC FEMALE SOCKET	                  1	            3
+13	  FTDI	                FTDI	                        1X06-KIT	                          1	            6
+14	  NEO 6M GPS Module    	GPS	                          NEO-6M-V2-GPSMODULE	                1	            4
+15	  Heat Sink	            HS1,HS2,HS3	                  HEATSINK	                          3	            2
+16	  ATMEGA16A-PU	        IC	                          DIP-40	                            1	            40
+17	  L298N MOTOR DRIVER	  MD	                          L298N MOTOR DRIVER	                1	            13
+18	  10K                  	R1,R9,R10,R11,R12,R13	        AXIAL-0.4	                          6	            2
+19	  1K	                  R2,R4,R5	                    AXIAL-0.4	                          3	            2
+20	  2.2K	                R3	                          AXIAL-0.4	                          1	            2
+21	  1M	                  R6,R7,R8	                    AXIAL-0.4	                          3	            2
+22	  NRF24L01	            RF	                          NRF24L01	                          1	            8
+23  	HC-SR04 Sensor	      S1	                          SENSOR HC-SR04	                    1	            4
+24  	MQ-2 Sensor	          S2	                          SENSOR - MQ-2	                      1	            4
+25	  Servo SG90	          SR1,SR2	                      SERVO_SG90_TH	                      2	            3
+26  	3-PIN 3.5MM SWITCH	  SW1	                          3-PIN 3.5MM SLIDE SWITCH	          1	            3
+27	  Tactile Switch	      SW2	                          KEY-TH_4P-L6.0-W6.0-P4.50-LS6.50	  1	            4
+28	  BC547	                T1,T2	                        TO-92-3_L4.9-W3.7-P2.54-L	          2	            3
+29	  LM7808	              U1	                          TO-220_L10.2-W4.6-P2.54_LR7805	    1	            3
+30	  LM7805	              U2,U3	                        TO-220_L10.2-W4.6-P2.54_LR7805	    2	            3
+31	  AMS1117 3.3V	        U4	                          PG-SOT223-4_L6.5-W3.5	              1	            4
+32	  16MHz Oscillator	    X1	                          HC-49US_L11.5-W4.5-P4.88	          1	            2
